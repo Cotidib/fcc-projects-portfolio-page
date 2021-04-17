@@ -1,5 +1,5 @@
 # fcc-projects-portfolio-page
-Personal portfolio template for freeCodeCamp WebDev projects with HTML5 and CSS.
+Personal portfolio template for freeCodeCamp Responsive Web Design Certification projects with HTML5 and CSS.
 
 Challenge project made for Responsive Web Design Certification at freeCodeCamp.
 
